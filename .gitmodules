@@ -10,3 +10,6 @@
 [submodule "Assets/M8VR"]
 	path = Assets/M8VR
 	url = https://github.com/ddionisio/MateUnityVR.git
+[submodule "Assets/M8QuickSheet"]
+	path = Assets/M8QuickSheet
+	url = https://github.com/ddionisio/MateQuickSheet.git
